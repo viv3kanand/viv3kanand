@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**viv3kanand/viv3kanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Genomics/Transcriptomics/Epigenomics
 - 🌱 I’m currently learning **Everything I can
