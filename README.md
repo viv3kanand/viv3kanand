@@ -13,7 +13,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viv3kanand&count_private=true&hide=prs&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand)
 
 
 <details>
