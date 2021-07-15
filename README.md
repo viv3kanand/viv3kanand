@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=viv3kanand&count_private=true&hide=prs&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&theme=tokyonight&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&theme=tokyonight&count_private=true&hide=html" />
 </a>
 
 
