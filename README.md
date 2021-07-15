@@ -19,12 +19,6 @@
 </a>
 
 
-**Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
 <details>
   <summary><b>📈&nbsp;&nbsp;&nbsp;Codersrank status</b></summary>
   <br/>
