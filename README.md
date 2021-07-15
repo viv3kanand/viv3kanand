@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on **Genomics/Transcriptomics/Epigenomics**
-- 🌱 I’m currently learning **Everything I can**
-- 👯 I’m looking to collaborate on **Pipeline development with Nextflow/Snakemake**
-- 🤔 I’m looking for help with **Everything that I'm learning**
+- 🔭 Working on **Genomics/Transcriptomics/Epigenomics**
+- 🌱 On a quest to learn **Everything I can**
+- 👯 Looking forward to collaborate on **Pipeline development with Nextflow/Snakemake**
 - 💬 Ask me about **Jade dynasty (RIP)**
 - 📫 How to reach me: **In any social media - viv3kanand**
 - 😄 Pronouns: **He/His**
