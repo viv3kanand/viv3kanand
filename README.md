@@ -20,7 +20,7 @@
 
 
 <details>
-  <summary><b>📈&nbsp;&nbsp;&nbsp;codersrank status</b></summary>
+  <summary><b>📈&nbsp;&nbsp;&nbsp;Codersrank status</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/viv3kanand/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=viv3kanand&padding=30&skills=CSS,HTML,JSON,JavaScript,Jupyter Notebook,Perl,Python,R,SCSS,Shell'>
