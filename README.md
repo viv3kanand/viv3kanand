@@ -19,10 +19,6 @@
 </a>
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viv3kanand)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <details>
   <summary><b>📈&nbsp;&nbsp;&nbsp;codersrank status</b></summary>
