@@ -19,6 +19,12 @@
 </a>
 
 
+📕 **Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <details>
   <summary><b>📈&nbsp;&nbsp;&nbsp;Codersrank status</b></summary>
   <br/>
@@ -30,8 +36,3 @@
 
 
 <img alt='analytics' src='https://profile-counter.glitch.me/viv3kanand/count.svg' width='0px'>
-
-📕 **Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
