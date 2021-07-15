@@ -11,9 +11,9 @@
 - ⚡ Fun fact: **Enter adikkan madi!!**
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viv3kanand&count_private=true&hide=prs&show_icons=true&theme=cobalt)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viv3kanand&count_private=true&hide=prs&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&theme=cobalt&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&theme=tokyonight&count_private=true)
 
 
 <details>
