@@ -19,6 +19,8 @@
 </a>
 
 
+![viv3kanand's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viv3kanand)
+
 
 
 <details>
