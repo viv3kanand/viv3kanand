@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&count_private=true&theme=tokyonight&hide=html,css,fortran,tex&langs_count=5&layout=compact" />
 </a>
 
-
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=viv3kanand&hide_title=true&hide_border=true&langs_count=5)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;&nbsp;codersrank status</b></summary>
