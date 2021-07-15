@@ -11,7 +11,7 @@
 - ⚡ Fun fact: **Enter adikkan madi!!**
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viv3kanand&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viv3kanand&count_private=true)
 
 
 
