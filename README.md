@@ -7,7 +7,6 @@
 - 💬 Ask me about **Jade dynasty (RIP)**
 - 📫 How to reach me: **In any social media - viv3kanand**
 - 😄 Pronouns: **He/His**
-- ⚡ Fun fact: **Enter adikkan madi!!**
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&count_private=true&theme=tokyonight&hide=html,css,fortran,tex&langs_count=5&layout=compact">
