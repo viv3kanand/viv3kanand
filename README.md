@@ -13,9 +13,7 @@
 <!--END_SECTION:waka-->
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&count_private=true&theme=tokyonight&hide=html,css,fortran,tex&langs_count=5&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viv3kanand&count_private=true&theme=tokyonight&hide=html,css,fortran,tex&langs_count=5&layout=compact" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viv3kanand&theme=default)
 
 
 
