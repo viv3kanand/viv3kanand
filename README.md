@@ -20,14 +20,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viv3kanand&theme=default&utcOffset=8) ![](https://myreadme.vercel.app/api/embed/viv3kanand?panels=toprepositories)
 
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;&nbsp;Codersrank status</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/viv3kanand/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=viv3kanand&padding=30&skills=CSS,HTML,JSON,JavaScript,Jupyter Notebook,Perl,Python,R,SCSS,Shell'>
-  </a>
-
-</details>
-
-
-<img alt='analytics' src='https://profile-counter.glitch.me/viv3kanand/count.svg' width='0px'>
