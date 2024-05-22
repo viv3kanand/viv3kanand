@@ -17,6 +17,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viv3kanand&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viv3kanand&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viv3kanand&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viv3kanand&theme=default&utcOffset=530)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viv3kanand&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viv3kanand&theme=default&utcOffset=5)
 
 
